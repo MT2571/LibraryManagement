@@ -1,0 +1,19 @@
+﻿<Window x:Class="QuanLyThuVien.W_QuanLySach"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyThuVien"
+        mc:Ignorable="d"
+        Title="W_QuanLySach" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btQuanLyDocGia" Content="Quản lý độc giả" HorizontalAlignment="Left" Margin="0,55,0,0" VerticalAlignment="Top" Height="25" Width="132" />
+        <Button x:Name="btQuanLySach" Content="Quản lý sách" HorizontalAlignment="Left" Margin="0,80,0,0" VerticalAlignment="Top" Height="22" Width="132"/>
+        <Button Content="Quản lý mượn trả" HorizontalAlignment="Left" Margin="0,102,0,0" VerticalAlignment="Top" Height="25" Width="132"/>
+        <Button Content="Tìm kiếm" HorizontalAlignment="Left" Margin="0,127,0,0" VerticalAlignment="Top" Width="132"/>
+        <Button Content="Lập báo cáo" HorizontalAlignment="Left" Margin="0,147,0,0" VerticalAlignment="Top" Width="132"/>
+        <Button Content="Thay đổi quy định" HorizontalAlignment="Left" Margin="0,167,0,0" VerticalAlignment="Top" Width="132"/>
+        <Label Content="Quản lý thư viện" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

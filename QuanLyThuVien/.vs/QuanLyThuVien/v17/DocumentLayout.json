@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\letam\\source\\repos\\QuanLyThuVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE95E1A-2C5D-4D09-BC1B-0BC3F424E6D9}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\letam\\source\\repos\\quanlythuvien\\quanlythuvien\\w_quanlydocgia.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE95E1A-2C5D-4D09-BC1B-0BC3F424E6D9}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\w_quanlydocgia.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_AV6EQV4_SQLEXPRESS/QLTV_DB/sa/SqlTable/dbo.DOCGIA.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE95E1A-2C5D-4D09-BC1B-0BC3F424E6D9}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\letam\\source\\repos\\QuanLyThuVien\\quanlythuvien\\w_quanlydocgia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FAE95E1A-2C5D-4D09-BC1B-0BC3F424E6D9}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\w_quanlydocgia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.DOCGIA [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_AV6EQV4_SQLEXPRESS/QLTV_DB/sa/SqlTable/dbo.DOCGIA.sql",
+              "ToolTip": "dbo.DOCGIA [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-05T03:36:34.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "W_QuanLyDocGia.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\letam\\source\\repos\\QuanLyThuVien\\QuanLyThuVien\\W_QuanLyDocGia.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\W_QuanLyDocGia.xaml.cs",
+              "ToolTip": "C:\\Users\\letam\\source\\repos\\QuanLyThuVien\\QuanLyThuVien\\W_QuanLyDocGia.xaml.cs",
+              "RelativeToolTip": "QuanLyThuVien\\W_QuanLyDocGia.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwGkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:36:01.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "W_QuanLyDocGia.xaml",
+              "DocumentMoniker": "C:\\Users\\letam\\source\\repos\\QuanLyThuVien\\QuanLyThuVien\\W_QuanLyDocGia.xaml",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\W_QuanLyDocGia.xaml",
+              "ToolTip": "C:\\Users\\letam\\source\\repos\\QuanLyThuVien\\QuanLyThuVien\\W_QuanLyDocGia.xaml",
+              "RelativeToolTip": "QuanLyThuVien\\W_QuanLyDocGia.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T00:54:11.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
